@@ -1,3 +1,7 @@
+# Team DS6 Project - with team The Hindenburgs
+
+This particular project was a collaboration between [Bua Matthews](https://github.com/bvanitsthian), [Garrett Holland](https://github.com/Garrett-Holland),  [Tim Claytor](https://github.com/Claytor) and myself. There was a lot of back and forth exchanging of ideas and agreeing on how to proceed, paired with a few cases where our approaches diverged and results were used for comparison.
+
 # Hop Teaming Analysis
 
 For this project, you will be working with the Hop Teaming dataset, a dataset which aims to capture referrals between healthcare providers based on Medicare claims. The 2018 Hop Teaming dataset can be downloaded [here](https://drive.google.com/file/d/1t2-qcCSmXCFBJ-xvbRvMc2Nlu9VTsZts/view?usp=sharing). More information about the Hop Teaming data can be found at https://careset.com/docgraph-hop-teaming-dataset/. 
